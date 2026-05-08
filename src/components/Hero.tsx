@@ -9,10 +9,10 @@ export const Hero = () => (
     <div className="container relative z-10 text-center text-primary-foreground py-32">
       <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary-foreground/10 backdrop-blur-sm border border-primary-foreground/20 mb-6 animate-fade-up">
         <Sparkles className="size-4 text-accent" />
-        <span className="text-sm tracking-wide">Premium Event Planning</span>
+        <span className="text-sm tracking-wide">Premium Event Catering</span>
       </div>
       <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-bold mb-6 animate-fade-up" style={{ animationDelay: "0.1s" }}>
-        Triple <span className="text-gradient-gold">T</span> Events
+        Triple <span className="text-gradient-gold">T</span> Catering
       </h1>
       <p className="text-xl md:text-2xl font-light max-w-2xl mx-auto mb-10 animate-fade-up text-primary-foreground/90" style={{ animationDelay: "0.2s" }}>
         Making Every Moment Unforgettable

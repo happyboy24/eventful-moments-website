@@ -10,10 +10,10 @@ export const CtaSection = () => (
           <div className="p-10 md:p-16 text-primary-foreground">
             <p className="text-accent uppercase tracking-[0.2em] text-sm font-medium mb-4">Let's Talk</p>
             <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6 leading-tight">
-              Ready to Plan Something <span className="text-gradient-gold">Unforgettable?</span>
+              Ready to Cater Something <span className="text-gradient-gold">Unforgettable?</span>
             </h2>
             <p className="text-primary-foreground/85 text-lg mb-8">
-              Speak directly with our planning team. Whether it's a wedding, milestone birthday, or corporate gala — we're a phone call away.
+              Speak directly with our catering team. Whether it's a wedding, milestone birthday, or corporate gala — we're a phone call away.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a href="tel:08033786761">
