@@ -35,7 +35,7 @@ export const Navbar = () => {
             </li>
           ))}
         </ul>
-        <a href="tel:08033786761" className="hidden md:inline-flex">
+        <a href="https://wa.me/2348033786761" target="_blank" rel="noreferrer" className="hidden md:inline-flex">
           <Button variant="default" className="gradient-gold text-accent-foreground hover:opacity-90 border-0">
             <Phone className="size-4" /> Book Now
           </Button>
@@ -53,7 +53,7 @@ export const Navbar = () => {
               </li>
             ))}
             <li>
-              <a href="tel:08033786761"><Button className="gradient-gold text-accent-foreground w-full"><Phone className="size-4" /> Book Now</Button></a>
+              <a href="https://wa.me/2348033786761" target="_blank" rel="noreferrer"><Button className="gradient-gold text-accent-foreground w-full"><Phone className="size-4" /> Book Now</Button></a>
             </li>
           </ul>
         </div>
